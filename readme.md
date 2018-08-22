@@ -5,8 +5,10 @@ This repository should be symlinked to your VS Code configuration: `~/Library/Ap
 Here's the terminal command to do this:
 
 ```
-ln -s ~/Library/Application \Support/Code/User path/to/repository/clone
+ln -s ~/Library/Application\ Support/Code/User create/a/folder/in/an/easily/accessible/location
 ```
+
+Once symlinked, you'll want to clear it out and clone this repository inside it.
 
 I'm using [Fira Code](https://github.com/tonsky/FiraCode) as my font.
 
