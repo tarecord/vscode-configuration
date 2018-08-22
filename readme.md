@@ -7,3 +7,19 @@ Here's the terminal command to do this:
 ```
 ln -s ~/Library/Application \Support/Code/User path/to/repository/clone
 ```
+
+## Current Plugins
+
+- [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [erb](https://marketplace.visualstudio.com/items?itemName=CraigMaslowski.erb)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+- [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs)
+- [PHPUnit](https://marketplace.visualstudio.com/items?itemName=emallin.phpunit)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [WordPress Toolbox](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox)
