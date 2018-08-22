@@ -8,6 +8,8 @@ Here's the terminal command to do this:
 ln -s ~/Library/Application \Support/Code/User path/to/repository/clone
 ```
 
+I'm using [Fira Code](https://github.com/tonsky/FiraCode) as my font.
+
 ## Current Plugins
 
 - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
