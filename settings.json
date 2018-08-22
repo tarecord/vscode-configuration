@@ -1,0 +1,22 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.activityBar.visible": true,
+    "terminal.integrated.fontSize": 14,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.colorTheme": "Atom One Dark",
+    "phpunit.execPath": "/usr/local/bin/phpunit",
+    "phpunit.args": ["--configuration", "./phpunit.xml.dist"],
+    "beautify.language": {
+        "html": ["htm", "html", "php", "blade.php"]
+    },
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "php": "html",
+        "javascript": "html"
+    }
+}
