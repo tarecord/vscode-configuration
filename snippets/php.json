@@ -20,5 +20,10 @@
 			"define( 'WP_DEBUG_DISPLAY', false );"
 		],
 		"description": "Set up WordPress to ouput to wp-content/debug.log"
+	},
+	"Error Logging": {
+		"prefix": "error_log",
+		"body": "error_log( print_r( ${1}, true ) );",
+		"description": "Var dumps to the error log."
 	}
 }
