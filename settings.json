@@ -14,7 +14,6 @@
     "beautify.language": {
         "html": ["htm", "html", "php", "blade.php"]
     },
-    "editor.formatOnSave": true,
     "emmet.includeLanguages": {
         "php": "html",
         "javascript": "html"
