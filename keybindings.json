@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+right",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "cmd+left",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+        "key": "cmd+backspace",
+        "command": "workbench.action.terminal.kill"
+    }
+]
