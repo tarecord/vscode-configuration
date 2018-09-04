@@ -17,5 +17,6 @@
     "emmet.includeLanguages": {
         "php": "html",
         "javascript": "html"
-    }
+    },
+    "phpcs.showSources": true,
 }
