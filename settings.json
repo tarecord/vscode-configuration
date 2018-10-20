@@ -5,6 +5,7 @@
     "editor.fontLigatures": true,
     "workbench.activityBar.visible": true,
     "terminal.integrated.fontSize": 14,
+    "terminal.integrated.shell.osx": "/bin/zsh",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "explorer.openEditors.visible": 0,
